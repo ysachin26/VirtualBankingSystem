@@ -31,3 +31,14 @@ bin/
 #quizz app
 quiz.json
 .quiz
+
+
+# Ignore IDE files
+.idea/
+*.iml
+
+# Ignore quiz data
+quiz.json
+
+# Ignore build output (if any)
+out/
