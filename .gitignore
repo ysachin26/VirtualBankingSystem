@@ -29,5 +29,5 @@ bin/
 .DS_Store
 
 #quizz app
-quizz.json
-.quizz
+quiz.json
+.quiz
